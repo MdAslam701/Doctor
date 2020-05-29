@@ -1,0 +1,9 @@
+2020-05-29 07:36:26,263 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-29 07:39:24,965 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:bookmydoctor:0.0.1-SNAPSHOT @ F:\Capgemini Project and Documents\PLP_Project\bookmydoctor\pom.xml.
+2020-05-29 07:39:26,913 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookmydoctor/src/main/java
+2020-05-29 07:39:26,915 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookmydoctor/src/test/java
+2020-05-29 07:39:27,068 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2020-05-29 07:39:28,012 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 07:39:28,013 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Capgemini Project and Documents\PLP_Project\bookmydoctor\src\main\resources
+2020-05-29 07:39:28,017 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 07:39:28,017 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Capgemini Project and Documents\PLP_Project\bookmydoctor\src\test\resources
